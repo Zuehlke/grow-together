@@ -8,8 +8,6 @@ This repo should serve as a template for your own grow together repo in your pro
 
 This is just a blueprint to be adjusted how ever it fits best in your project.
 
-**Caution:** 
-
 ## Ziele 
 * Persönliche Weiterentwicklung jedes einzelnen fördern
 * Sicherstellen und Weiterentwickeln der nötigen Skills im Projekt
